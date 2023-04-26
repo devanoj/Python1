@@ -1,0 +1,902 @@
+[
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "American Bulldog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Australian Cattle Dog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Australian Kelpie"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 1,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Australian Stumpy Tail Cattle Dog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 2,
+        "barking": 1,
+        "name": "Azawakh"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 2,
+        "barking": 1,
+        "name": "Basenji"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Bergamasco Sheepdog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Briard"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Broholmer"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Bullmastiff"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Catahoula Leopard Dog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 2,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Chow Chow"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Clumber Spaniel"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Coton de Tulear"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "French Bulldog"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 4,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 1,
+        "name": "Golden Retriever"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 1,
+        "name": "Hovawart"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 1,
+        "name": "Irish Water Spaniel"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Irish Wolfhound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 1,
+        "name": "Jagdterrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 1,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 2,
+        "name": "Akita"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Bavarian Mountain Scent Hound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Berger Picard"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 2,
+        "barking": 2,
+        "name": "Borzoi"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 4,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Boston Terrier"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 4,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 2,
+        "name": "Bracco Italiano"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 2,
+        "name": "Braque du Bourbonnais"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Bulldog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 2,
+        "shedding": 4,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 2,
+        "name": "Caucasian Shepherd Dog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Cirneco dell\u2019Etna"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 2,
+        "name": "Dutch Shepherd"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 2,
+        "name": "English Toy Spaniel"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 2,
+        "name": "Glen of Imaal Terrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 2,
+        "name": "Japanese Chin"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 5,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Lagotto Romagnolo"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 2,
+        "name": "Nova Scotia Duck Tolling Retriever"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 2,
+        "name": "Porcelaine"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 2,
+        "name": "Rafeiro do Alentejo"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 2,
+        "name": "Rhodesian Ridgeback"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 2,
+        "name": "Sloughi"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 2,
+        "trainability": 3,
+        "barking": 3,
+        "name": "Affenpinscher"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 1,
+        "barking": 3,
+        "name": "Afghan Hound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 2,
+        "trainability": 3,
+        "barking": 3,
+        "name": "Airedale Terrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "Alaskan Malamute"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 3,
+        "name": "American Eskimo Dog"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "American Hairless Terrier"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 3,
+        "name": "American Leopard Hound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 3,
+        "name": "American Staffordshire Terrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "American Water Spaniel"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 2,
+        "barking": 3,
+        "name": "Anatolian Shepherd Dog"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "Australian Shepherd"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 1,
+        "coat_length": 2,
+        "trainability": 4,
+        "barking": 3,
+        "name": "Barbet"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 4,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 3,
+        "name": "Beauceron"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 3,
+        "name": "Bedlington Terrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "Belgian Laekenois"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "Belgian Malinois"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "Belgian Sheepdog"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 3,
+        "name": "Belgian Tervuren"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 5,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 3,
+        "name": "Bernese Mountain Dog"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 3,
+        "name": "Bichon Frise"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 5,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "American English Coonhound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Appenzeller Sennenhund"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Basset Fauve de Bretagne"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Basset Hound"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Beagle"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Black and Tan Coonhound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Bluetick Coonhound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 4,
+        "name": "Border Collie"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 2,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Brussels Griffon"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Cairn Terrier"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 4,
+        "name": "Drever"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Grand Basset Griffon Vend\u00e9en"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Hanoverian Scenthound"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Havanese"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 4,
+        "name": "Icelandic Sheepdog"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 4,
+        "name": "Keeshond"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 2,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 4,
+        "name": "Kerry Blue Terrier"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Lancashire Heeler"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Lapponian Herder"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 4,
+        "name": "Manchester Terrier (Standard)"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 5,
+        "name": "American Foxhound"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Australian Terrier"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 3,
+        "shedding": 1,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 5,
+        "name": "Barbado da Terceira"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 5,
+        "name": "Bearded Collie"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Bloodhound"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 4,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Canaan Dog"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Cardigan Welsh Corgi"
+    },
+    {
+        "good_with_children": 1,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 2,
+        "trainability": 3,
+        "barking": 5,
+        "name": "Chihuahua"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Chinook"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 2,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Collie"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 2,
+        "coat_length": 2,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Dachshund"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "English Foxhound"
+    },
+    {
+        "good_with_children": 4,
+        "good_with_other_dogs": 3,
+        "shedding": 4,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Finnish Lapphund"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 5,
+        "name": "Finnish Spitz"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 5,
+        "name": "German Spitz"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 5,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Harrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 5,
+        "name": "Miniature Bull Terrier"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 4,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 3,
+        "barking": 5,
+        "name": "Miniature Pinscher"
+    },
+    {
+        "good_with_children": 5,
+        "good_with_other_dogs": 3,
+        "shedding": 3,
+        "coat_length": 1,
+        "trainability": 5,
+        "barking": 5,
+        "name": "Miniature Schnauzer"
+    },
+    {
+        "good_with_children": 3,
+        "good_with_other_dogs": 3,
+        "shedding": 2,
+        "coat_length": 1,
+        "trainability": 4,
+        "barking": 5,
+        "name": "Otterhound"
+    }
+]
